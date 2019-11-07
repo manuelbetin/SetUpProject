@@ -1,0 +1,10 @@
+Package: SetUpProject
+Type: Package
+Title: provide set of useful functions to initialize projects
+Version: 1.0
+Date: 2019-11-03
+Author: Manuel Betin
+Maintainer: Who to complain to <manubetin@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+RoxygenNote: 6.1.1
